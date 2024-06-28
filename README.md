@@ -188,4 +188,4 @@ Also we can use this awsome notebook to find the number of typos in the dataset 
 The model can be deployed end-to-end or using FLASK we may form an API, for users to directly use the model. For accessing the detailed report of the project refer to the LaTeX documentation [here](https://www.overleaf.com/read/rnqchkvmkjqb#2a1407) 
 
 ## Author
-[Aman Behera](https://github.com/beingamanforever) , IIT Roorkee - if u have any suggestions do let me know at aman_b@ch.iitr.ac.in :hamster:
+[Aman Behera](https://github.com/beingamanforever) , IIT Roorkee - if u have any suggestions do let me know at aman_b@ch.iitr.ac.in :hamster:.
